@@ -1,6 +1,18 @@
 ## About me
 
-Hello, my name is Aleksey!
+I'am a design engineer with a 4-year experience. Currently studying software engineering at ITIU BSU and at EPAM .NET Lab (online stage). 
+
+# Skills
+
+Tools & Technologies: 
+- Basics of C#, JAVA, WEB-programming(HTML, CSS, JavaScript), OOP;
+- MySQL;
+- Git.
+
+Languages:
+- English (A2+).
+
+
 
 
 
