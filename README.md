@@ -2,7 +2,7 @@
 
 I'am a design engineer with a 4-year experience. Currently studying software engineering at ITIU BSU and at EPAM .NET Lab (online stage). 
 
-# Skills
+### Skills
 
 Tools & Technologies: 
 - Basics of C#, JAVA, WEB-programming(HTML, CSS, JavaScript), OOP;
