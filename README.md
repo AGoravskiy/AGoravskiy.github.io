@@ -19,4 +19,5 @@ Languages:
 
 ## PORTFOLIO
 
-- PadawansTask ([FancyCalc](https://github.com/AGoravskiy/FancyCalc), Task1, Task2, Task3, Task4, Task5, Task6, Task7, Task8, Task9, Task10, Task11, Task12, Task13, Task15,)
+- PadawansTasks ([FancyCalc](https://github.com/AGoravskiy/FancyCalc), [Task1](https://github.com/AGoravskiy/PadawansTask1), [Task2](https://github.com/AGoravskiy/PadawansTask2), [Task3](https://github.com/AGoravskiy/PadawansTask3), [Task4](https://github.com/AGoravskiy/PadawansTask4), [Task5](https://github.com/AGoravskiy/PadawansTask5), [Task6](https://github.com/AGoravskiy/PadawansTask6), [Task7](https://github.com/AGoravskiy/PadawansTask7), [Task8](https://github.com/AGoravskiy/PadawansTask8), [Task9](https://github.com/AGoravskiy/PadawansTask9), [Task10](https://github.com/AGoravskiy/PadawansTask10), [Task11](https://github.com/AGoravskiy/PadawansTask11), [Task12](https://github.com/AGoravskiy/PadawansTask12), [Task13](https://github.com/AGoravskiy/PadawansTask13), [Task15](https://github.com/AGoravskiy/PadawansTask15)).
+- [Codewars](https://www.codewars.com/users/AGoravskiy).
